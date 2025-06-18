@@ -287,12 +287,21 @@ E para sair utilize `> exit`
 # Referencias
 
 [List of DNS Record Types - Wikipedia](https://en.wikipedia.org/wiki/List_of_DNS_record_types)
+
 [Domain Name System, Resource Records - Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System#Resource_records)
+
 [MX Records - Wikipedia](https://en.wikipedia.org/wiki/MX_records)
+
 [Setting up a forward zone on a BIND primary server - RedHat](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/managing_networking_infrastructure_services/assembly_setting-up-and-configuring-a-bind-dns-server_networking-infrastructure-services#proc_setting-up-a-forward-zone-on-a-bind-primary-server_assembly_configuring-zones-on-a-bind-dns-server)
+
 [PTR record basics - RedHat](https://docs.redhat.com/en/documentation/red_hat_openstack_platform/17.0/html/using_designate_for_dns-as-a-service/manage-pointer-records_rhosp-dnsaas#ptr-record-basics_manage-pointer-records)
+
 [DNS PTR Record - Cloudflare](https://www.cloudflare.com/learning/dns/dns-records/dns-ptr-record/)
+
 [Virtual Loopback Interface - Wikipedia](https://en.wikipedia.org/wiki/Loopback#Virtual_loopback_interface)
+
 [Reverse DNS Lookup](https://en.wikipedia.org/wiki/)
+
 [Reverse Name Resolution Zone Files - RedHat](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-configuration-zone-reverse)
+
 [Conteúdo padrão de /etc/bind/db.local - ChatGPT](https://chatgpt.com/c/68523315-c198-800a-b1a6-c02d35872d86)
