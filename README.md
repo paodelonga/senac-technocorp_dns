@@ -304,4 +304,4 @@ E para sair utilize `> exit`
 
 [Reverse Name Resolution Zone Files - RedHat](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/reference_guide/s2-bind-configuration-zone-reverse)
 
-[Conteúdo padrão de /etc/bind/db.local - ChatGPT](https://chatgpt.com/c/68523315-c198-800a-b1a6-c02d35872d86)
+[Conteúdo padrão de /etc/bind/db.local - ChatGPT](https://chatgpt.com/share/68525770-1410-800a-8913-cb0ea901a5ff)
