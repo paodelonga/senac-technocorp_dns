@@ -8,10 +8,13 @@
 - [Instalação do bind9](#instalação-do-bind9)
 - [Configuração do bind9](#configuração-do-bind9)
   - [Criação e configuração da zona direta](#criação-e-configuração-da-zona-direta)
-  - [Declaração da zona no named.conf.local](#declaração-da-zona-no-namedconflocal)
-  - [Configuração de opções globais](#configuração-de-opções-globais)
+  - [Declaração da zona no named.conf.local](#declaração-da-zona-recém-criada-no-arquivo-de-zonas)
+  - [Configuração de opções globais](#configuração-de-opções-globais-do-bind9)
 - [Verificação das configurações](#verificação-das-configurações)
 - [Testar o serviço de DNS](#testar-o-serviço-de-dns)
+  - [Teste local (no próprio servidor)](#teste-local-no-próprio-servidor)
+  - [Teste a partir de outra máquina (Windows)](#teste-a-partir-de-outra-máquina-windows)
+- [Referencias](#referencias)
 
 ## Objetivo
 
