@@ -1,0 +1,4 @@
+zone "technocorp.emp" {
+    type master;
+    file "/etc/bind/db.technocorp.emp";
+};

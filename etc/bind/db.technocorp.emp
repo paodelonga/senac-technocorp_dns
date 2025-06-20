@@ -1,0 +1,29 @@
+;
+; BIND data file for local loopback interface
+;
+$TTL	604800
+@	IN	SOA	ns1.technocorp.emp. admin.technocorp.emp. (
+         2025060602		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+; Servidores de Nomes
+@			IN			NS		ns1.technocorp.emp.
+
+; A Records para Servidores de Nomes
+ns1 		IN			A 		127.0.0.1
+
+; A Records para Subdomínios
+@			IN			A 127.0.0.1
+www 		IN 			A 127.0.0.1
+dns 		IN 			A 127.0.0.1
+dhcp 		IN 			A 127.0.0.1
+ftp 		IN 			A 127.0.0.1
+mail 		IN 			A 127.0.0.1
+
+; CNAME
+www     IN      CNAME   @
+
+; MX Record
+@       IN      MX 10   mail.technocorp.emp.
